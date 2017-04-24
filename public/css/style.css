@@ -101,7 +101,7 @@ a.pure-button-primary {
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
-    background: #2d3e50;
+    background: #F2C70F;
 }
 .pure-menu.pure-menu-fixed {
     border-bottom: none;
@@ -109,23 +109,26 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-heading {
-    color: white;
+    color: #2d3e50;
     font-weight: 400;
     font-size: 120%;
 }
 
-.home-menu .pure-menu-selected a {
-    color: white;
+.home-menu .pure-menu-selected a.pure-menu-link {
+    color: #2d3e50;
 }
 
-.home-menu a {
-    color: #6FBEF3;
+.home-menu a, li a.pure-menu-link {
+    color: #2d3e50;
 }
 .home-menu li a:hover,
-.home-menu li a:focus {
-    background: none;
+.home-menu li a:focus,
+.pure-menu-selected a.pure-menu-link:hover,
+.pure-menu-selected a.pure-menu-link:focus {
+    font-weight: 500;
+    background: #075E94;
     border: none;
-    color: #AECFE5;
+    color: white;
 }
 
 
