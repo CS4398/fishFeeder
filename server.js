@@ -66,7 +66,7 @@ function removeOldest (arr) {
 }
 
 // checks addFeeding every minute
-setInterval(addFeeding, 1000);
+setInterval(addFeeding, 60000);
 
 server = app.listen(8080, function() {
     console.log('Listening on port %d', server.address().port);
