@@ -1,5 +1,6 @@
 # Fish Feeder
 ![](https://github.com/CS4398/fishFeeder/blob/master/resources/img/coverImg.png?raw=true)
+
 ---
 
 ## Authors
