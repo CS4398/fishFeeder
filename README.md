@@ -1,4 +1,5 @@
 # Fish Feeder
+
 ![](https://github.com/CS4398/fishFeeder/blob/master/resources/img/coverImg.png?raw=true)
 
 ---
@@ -46,7 +47,7 @@ Our target users are people who want to manage and maintain their pet fish while
 - Express Server
 - Pug templates
 
-##### Unit Tests
+#### Unit Tests
 
 - [Mocha](https://mochajs.org/)
 - [Chai](http://chaijs.com/api/bdd/)
