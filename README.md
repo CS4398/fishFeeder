@@ -69,7 +69,7 @@ Our target users are people who want to manage and maintain their pet fish while
    ```
    npm start
    ```
-5. Open a browser to [http://localhost:8080/](http://localhost:8080/)
+5. Open a browser to [http://localhost:8088/](http://localhost:8088/)
 
 ---
 
@@ -100,7 +100,7 @@ Our target users are people who want to manage and maintain their pet fish while
 
 ## SRS Doc
 
-[Software Requirements Specifications](https://github.com/CS4398/fishFeeder/blob/master/rsources/SRS.pdf)
+[Software Requirements Specifications](https://github.com/CS4398/fishFeeder/blob/master/resources/SRS.pdf)
 
 ---
 
