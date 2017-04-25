@@ -91,6 +91,13 @@ Our target users are people who want to manage and maintain their pet fish while
 [View test code](https://github.com/CS4398/fishFeeder/blob/master/test/test.js)
 
 ---
+
+## Class Diagram
+
+![Class Diagram](https://github.com/CS4398/fishFeeder/blob/master/resources/img/class_diagram.png?raw=true)
+
+---
+
 ## State Diagram
 
 ![State Diagram](https://github.com/CS4398/fishFeeder/blob/master/resources/img/State%20Chart.png?raw=true)
