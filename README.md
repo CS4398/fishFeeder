@@ -107,7 +107,13 @@ Our target users are people who want to manage and maintain their pet fish while
 
 ## SRS Doc
 
-[Software Requirements Specifications](https://github.com/CS4398/fishFeeder/blob/master/resources/SRS.pdf)
+[Software Requirements Specifications](https://github.com/CS4398/fishFeeder/blob/master/resources/SRSgroup4SM.docx.pdf)
+
+---
+
+## User Acceptance Tests
+
+[Download Documentation](https://github.com/CS4398/fishFeeder/blob/master/resources/User%20Acceptance%20Testing%20for%20Fishyfeeder.docx)
 
 ---
 
